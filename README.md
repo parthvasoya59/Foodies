@@ -1,4 +1,4 @@
-<pre><h1> Foodies <h1>
+<h1> Foodies <h1>
 
 ## A Project Report On "Online Food App"
 
@@ -121,4 +121,4 @@ In this project there are two modules based on the users of the app.
 	https://flutter.dev/docs/development/tools/sdk/upgrading
 	https://code.visualstudio.com/download
 	https://flutter.dev
-	https://stackoverflow.com/questions/tagged/flutter</pre>
+	https://stackoverflow.com/questions/tagged/flutter
