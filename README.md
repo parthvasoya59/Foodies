@@ -66,7 +66,7 @@ As Project Definition states that “Online Food App” is an online marketplace
 	IOS 10
 	Internet Accessibility
 	
-<h3> Hardware requirements for running the App:
+<h3> Hardware requirements for running the App: </h3>
 	The absolute minimum requirements for our project were a 1 GB of RAM.
 	45 MB of storage is required minimum.
  
@@ -110,37 +110,15 @@ In this project there are two modules based on the users of the app.
 
 
 ## References:
-•	https://pub.dev/packages/cloud_firestore
-•	https://pub.dev/packages/firebase_auth
-•	https://pub.dev/packages/shared_preferences
-•	https://firebase.google.com/
-•	https://stackoverflow.com/questions/49764905/how-to-assign-future-to-widget-in-flutter
-•	https://stackoverflow.com/questions/51473292/flutter-project-when-run-showing-error-invalid-arguments-the-source-must-not
-•	https://flutter.dev/docs/get-started/install/windows
-•	https://console.firebase.google.com
-•	https://flutter.dev/docs/development/tools/sdk/upgrading
-•	https://code.visualstudio.com/download
-•	https://flutter.dev
-•	https://stackoverflow.com/questions/tagged/flutter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
+	https://pub.dev/packages/cloud_firestore
+	https://pub.dev/packages/firebase_auth
+	https://pub.dev/packages/shared_preferences
+	https://firebase.google.com/
+	https://stackoverflow.com/questions/49764905/how-to-assign-future-to-widget-in-flutter
+	https://stackoverflow.com/questions/51473292/flutter-project-when-run-showing-error-invalid-arguments-the-source-must-not
+	https://flutter.dev/docs/get-started/install/windows
+	https://console.firebase.google.com
+	https://flutter.dev/docs/development/tools/sdk/upgrading
+	https://code.visualstudio.com/download
+	https://flutter.dev
+	https://stackoverflow.com/questions/tagged/flutter
