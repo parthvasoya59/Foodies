@@ -17,8 +17,8 @@ Making dynamic application, for restaurant.In this application, I will create tw
 In that users can add products into cart and after that they can get final bill and buy product and track their product.
 
 ## Objective
-After development of this project, Travel Agency can Grow their business online  
-Basically this platform provide any Travel Agency to bring their business online
+After development of this project, Travel Agency can Grow their business online.  
+Basically this platform provide any Travel Agency to bring their business online.
   
 ## Scope
 	Mobile apps playing the role as a key lifestyle factor for majority of population..
@@ -28,47 +28,47 @@ Basically this platform provide any Travel Agency to bring their business online
 	Competitive pricing aggravated by promotional offers and discounts being a key motivation for the customers.
 
 ## Tools and Technologies
-VS CODE
-Flutter SDK
-Dart Extension
-Firebase
-Many flutter plugins like shared preferences,firebase_auth,etc.
+VS CODE</br>
+Flutter SDK</br>
+Dart Extension</br></br></br>
+Firebase</br></br>
+Many flutter plugins like shared preferences,firebase_auth,etc.</br>
 
 
 ## Project Description
 
 
 As Project Definition states that “Online Food App” is an online marketplace that connects a Foodies to multiple local Restaurants.
-	There are mainly two users :-
-	Restaurant(Admin)
-	People who order online food(Foodies)
-	Both the App modules are build using Flutter.
+	There are mainly two users :-</br>
+	Restaurant(Admin)</br>
+	People who order online food(Foodies)</br>
+	Both the App modules are build using Flutter.</br>
 
 
 
 ## Software and Hardware Requirements 
 <h3> Software and hardware requirements for making the Project: </h3>
-	Operating System:
-	Microsoft Windows 7, 64-bit
-	Microsoft Windows 8.1, 64-bit
-	Microsoft Windows 10, 64-bit
-	Hardware:
-	Intel® Core i5 4th generation (or an equivalent AMD processor)
-	2 GB Ram
-	Software
-	VS CODE
-	Flutter SDK
-	Dart Extensions
-	Emulator iOS/Android
+	Operating System:</br>
+	Microsoft Windows 7, 64-bit</br>
+	Microsoft Windows 8.1, 64-bit</br>
+	Microsoft Windows 10, 64-bit</br>
+	Hardware:</br>
+	Intel® Core i5 4th generation (or an equivalent AMD processor)</br>
+	2 GB Ram</br>
+	Software</br>
+	VS CODE</br>
+	Flutter SDK</br>
+	Dart Extensions</br>
+	Emulator iOS/Android</br>
 
 <h3> Software requirements for running the App: </h3> 
-	I Android 6.0 Marshmallow or Above
-	IOS 10
-	Internet Accessibility
+	I Android 6.0 Marshmallow or Above</br>
+	IOS 10</br>
+	Internet Accessibility</br>
 	
 <h3> Hardware requirements for running the App: </h3>
-	The absolute minimum requirements for our project were a 1 GB of RAM.
-	45 MB of storage is required minimum.
+	The absolute minimum requirements for our project were a 1 GB of RAM.</br>
+	45 MB of storage is required minimum.</br>
  
  
 ## Major Functionality 
