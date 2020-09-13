@@ -51,11 +51,11 @@ As Project Definition states that “Online Food App” is an online marketplace
 	Operating System:</br>
 	Microsoft Windows 7, 64-bit</br>
 	Microsoft Windows 8.1, 64-bit</br>
-	Microsoft Windows 10, 64-bit</br>
-	Hardware:</br>
+	Microsoft Windows 10, 64-bit</br></br>
+	<h4>Hardware:</br></h4>
 	Intel® Core i5 4th generation (or an equivalent AMD processor)</br>
-	2 GB Ram</br>
-	Software</br>
+	2 GB Ram</br></br>
+	<h4>Software</br></h4>
 	VS CODE</br>
 	Flutter SDK</br>
 	Dart Extensions</br>
