@@ -12,20 +12,22 @@ June 2020
 
 ## ABSTRACT
 
-
 Making dynamic application, for restaurant.In this application, I will create two module one for admin, who can add products and get all information about application and other for users,
 In that users can add products into cart and after that they can get final bill and buy product and track their product.
+
 
 ## Objective
 After development of this project, Travel Agency can Grow their business online.  
 Basically this platform provide any Travel Agency to bring their business online.
-  
+ 
+ 
 ## Scope
 	Mobile apps playing the role as a key lifestyle factor for majority of population..
 	A variety of popular cuisines and cosmopolitan tastes to try different food delicacies. 
 	A thriving food scene with a variety of quality restaurants serving delicacies with different price tags. 
 	Increasing demand for faster and timely food delivery. 
 	Competitive pricing aggravated by promotional offers and discounts being a key motivation for the customers.
+
 
 ## Tools and Technologies
 VS CODE</br>
@@ -37,7 +39,6 @@ Many flutter plugins like shared preferences,firebase_auth,etc.</br>
 
 ## Project Description
 
-
 As Project Definition states that “Online Food App” is an online marketplace that connects a Foodies to multiple local Restaurants.
 	There are mainly two users :-</br>
 	Restaurant(Admin)</br>
@@ -45,10 +46,9 @@ As Project Definition states that “Online Food App” is an online marketplace
 	Both the App modules are build using Flutter.</br>
 
 
-
 ## Software and Hardware Requirements 
-<h3> Software and hardware requirements for making the Project: </h3>
-	Operating System:</br>
+<h3> Software and hardware requirements for making the Project: </h3></br>
+	<h4>Operating System:</br></h4>
 	Microsoft Windows 7, 64-bit</br>
 	Microsoft Windows 8.1, 64-bit</br>
 	Microsoft Windows 10, 64-bit</br></br>
@@ -63,7 +63,7 @@ As Project Definition states that “Online Food App” is an online marketplace
 
 <h3> Software requirements for running the App: </h3> 
 	I Android 6.0 Marshmallow or Above</br>
-	IOS 10</br>
+	iOS 10 or Above </br>
 	Internet Accessibility</br>
 	
 <h3> Hardware requirements for running the App: </h3>
