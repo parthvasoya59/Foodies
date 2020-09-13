@@ -30,8 +30,8 @@ Basically this platform provide any Travel Agency to bring their business online
 ## Tools and Technologies
 VS CODE</br>
 Flutter SDK</br>
-Dart Extension</br></br></br>
-Firebase</br></br>
+Dart Extension</br>
+Firebase</br>
 Many flutter plugins like shared preferences,firebase_auth,etc.</br>
 
 
