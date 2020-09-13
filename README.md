@@ -110,7 +110,7 @@ In this project there are two modules based on the users of the app.
 
 
 ## References:
-	<a href="https://pub.dev/packages/cloud_firestore"> https://pub.dev/packages/cloud_firestore 
+	https://pub.dev/packages/cloud_firestore 
 	https://pub.dev/packages/firebase_auth
 	https://pub.dev/packages/shared_preferences
 	https://firebase.google.com/
