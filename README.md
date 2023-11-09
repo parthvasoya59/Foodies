@@ -1,8 +1,6 @@
-<h1> Foodies <h1>
+## Foodies - "Online Food Delivery App"
 
-## A Project Report On "Online Food App"
-
-## Prepared by Parth Vasoya 
+### Prepared by Parth Vasoya 
   
 Department of Computer Science & Engineering
 Devang Patel Institute of Advance Technology and Research
